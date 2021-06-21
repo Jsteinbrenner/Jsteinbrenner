@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jsteinbrenner
 - 👀 I’m interested in **javascript**
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email
 
